@@ -1,0 +1,12 @@
+{
+  "$type": "LuaSTGEditorSharpV2.ViewModel.Configurable.ConfigurableViewModelProvider, LuaSTGEditorSharpV2.ViewModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+  "TypeUID": "Folder",
+  "Captures": [ { "Key": "name" } ],
+  "Icon": "pack://application:,,,/LuaSTGEditorSharpV2.Resources.Shared;component/images/nodes/16x16/folder.png",
+  "Text": {
+    "Neutral": "Folder: {0}",
+    "Localized": {
+      "zh": "文件夹：{0}"
+    }
+  }
+}
